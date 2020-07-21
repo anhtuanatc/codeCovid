@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="am">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>የሰውነት ፈሳሽ ያለው</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>መንገድ ካለ ወደፊት</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>ዝርዝር</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>ጢም ያለው</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>ፀጉር ያላት</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>የኩሬ ጨዋታ</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>ሼል ያለው</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>የ'ቢሆን' ብሎክ አንድ ነገር የሚያከናው ሁኔታው እውነት ከሆነ ብቻ ነው ፡፡ ወደ ግራ የሚወስደ መንገድ ካለ ወደ ግራ ለመሄድ ይሞክሩ ፡፡</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>አድርግ</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>ለዚህ ደረጃ ሁሉንም ብሎኮች ተጠቅመዋል ፡፡ አዲስ ብሎክ ለመፍጠር በመጀመሪያ አንድ ብሎክ መሰረዝ ያስፈልግዎታል ፡፡</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>ይሄ ተጫዋቹን ወደ ግራ ወይንም ወደቀኝ በ 90 ዲግሪዋች ያሳጥፈዋል.</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>ዳግም ይጀመር</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>ይህን ቁልፍ መጫን የተፃፈውን የኮምፒተር ፕሮግራም ያሂዳል።.</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>ታጠፍ ወደቀኝ</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>እንደገና መጀመር ይፈልጋሉ?</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>ጽሕፈት</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>ሁሉንም መፍትሔዎችዎን ይሰረዙ?</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>ለእያንዳንዱ እንስሳ (አረንጓዴ) ስዕሉን ያያይዙ ፣ የእግሮቹን ብዛት ይምረጡ እና የባህሪያቱን አይነት መርጠው በመደርደር ያብጁት</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>ባህሪያት:</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>እርዳታ</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>የሁኔታዊ መገንቢያ ብሎኮች</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>ወፍ</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>ለአስተማሪዎች መረጃ ...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>የተላውጠ ቃላት መገንቢያ ብሎኮች</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>ፕሮግራም ያሂዱ</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>ድንቅ ነው!
+ሁሉም %1 ብሎኮች ትክክል ናቸው።</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 ብሎኮች ትክክል አይደሉም ፡፡</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>የመንገድ ፍለጋ ጨዋታ</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>ቀለም ይለውጡ ወደ</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>ካልሆነ</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>ይሄ ተጫዋቹን አንድ እርምጃ ወደ ፊት ይወስደዋል.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>ይቅርታ ፣ '%1' ከማንኛውም የተቀመጠ ፕሮግራም ጋር አይጣጣምም</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>ማግኘት አልተቻለም</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>በተጠቀሰው አቅጣጫ አንድ መንገድ ካለ ፣ የመጀመሪያዎቹን ብሎክ ድርጊቶች \nያከናውን። ያለበለዚያ ፣ የሁለተኛውን ብሎክ ድርጊቶች ያከናውን። </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>መልሶችን ይመልከቱ</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>ሙዚቃ</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>በተጠቀሰው አቅጣጫ መንገድ ካለ የሆነ እርምጃ ይውሰዱ.</target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>የመጨረሻው ነጥብ ላይ እስከሚደርስ ድረስ ድርጊቶችን ይደጋግሙ ፡፡.</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>ፕሮግራሙን ያቁሙና ደረጃውን እንደገና ያስጀምሩ</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>ወፏ ትል ሳታገኝ ስትቀር ያለው ሁኔታ</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>ከአንድ በላይ ብሎኮችን በ'ድገም' ብሎክ ውስት ማገጣጠም ይችላሉ ፡፡</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>የቀለም መገንቢያ ብሎኮች</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>የ ከሆነ-ካልሆነ ብሎኮች ተፈታኝ ብሎኩ ከሆነ የመጀመሪያውን ካልሆነ ደግሞ ሌላውን ለሚያሰናደር ይረዳሉ</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>ብሎኮቹን በዚህ መስፈንጠርያ አጋሩ:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>ብሎኮች ያስቀምጡ እና መስፈንጠሪያ ያግኙ</target>
+      </trans-unit>
